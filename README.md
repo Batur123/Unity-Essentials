@@ -1,6 +1,7 @@
 # Unity Code Samples
 
 Current Implementations\
+-> Main Menu\
 -> Inventory Panel and Toggle Script (Open/Close)\
 -> Shoot (Destroying Cubes and gives you damage)\
 -> Health and Armor \
