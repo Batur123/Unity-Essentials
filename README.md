@@ -8,3 +8,4 @@ Current Implementations\
 -> Scriptable Item Objects with ItemBase Class\
 -> Walk, Free Look, Sprint, Crouch for Character\
 
+Codes are under the Assets/Scripts folder.
