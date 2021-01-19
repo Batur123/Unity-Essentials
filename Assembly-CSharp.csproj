@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A7444876-4FCC-A675-5B5D-6150D19C039A}</ProjectGuid>
+    <ProjectGuid>{D2C786A2-807A-E0F9-7157-52BBF8EC63A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -77,6 +77,7 @@
     <Compile Include="Assets\Scripts\Items\ItemBase.cs" />
     <Compile Include="Assets\Scripts\LeftClickAction.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\NameAboveShopkeeper.cs" />
     <Compile Include="Assets\Scripts\PlayerCross.cs" />
     <Compile Include="Assets\Scripts\PlayerStats.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
@@ -627,37 +628,37 @@
       <HintPath>D:/UnityEditors/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Batu/Code Samples Unity RPG/CodeSamples/Unity-Essentials/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
